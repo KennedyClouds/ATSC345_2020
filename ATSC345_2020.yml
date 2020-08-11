@@ -1,0 +1,14 @@
+name: ATSC345_2020
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - xarray
+  - pandas
+  - cartopy
+  - arm_pyart
+  - satpy
+  - metpy
+  - boto
+  - cfgrib
+  - sharppy
